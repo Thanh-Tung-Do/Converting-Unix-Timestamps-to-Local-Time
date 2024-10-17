@@ -1,4 +1,4 @@
-Converting Unix Timestamps to Local Time Using Latitude and Longitude
+# Converting Unix Timestamps to Local Time Using Latitude and Longitude
 
 Working with Unix timestamps can be a hassle, especially if you need to convert them into local time across different geographical regions. Fortunately, there's a convenient way to streamline this process by using longitude and latitude coordinates. With the help of the tzfpy Python package, you can easily determine the timezone and then convert the timestamp to the corresponding local time. Let me share how you can make this conversion fast and seamless.
 
