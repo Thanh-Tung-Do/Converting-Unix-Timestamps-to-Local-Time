@@ -8,7 +8,7 @@ Unix timestamps represent the number of seconds since January 1, 1970, in Coordi
 
 Introducing tzfpy
 
-tzfpy is a handy Python package designed to quickly determine timezone information based on geographic coordinates. 
+tzfpy is a handy Python package designed to quickly determine timezone information based on geographic coordinates.
 
 Credit to the development team: [tzfpy GitHub repository.](https://github.com/ringsaturn/tzfpy)
 
